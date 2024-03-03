@@ -338,6 +338,9 @@ main{
   .service-content button{
     border-radius: 8px;
     background: #FA7436;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
     padding: 20px 40px;
     border: 0;
     margin: 48px 0;
